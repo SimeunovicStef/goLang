@@ -1,4 +1,4 @@
-module github.com/SimeunovicStef/go-bookstore
+module github.com/SimeunovicStef/goLang/tree/main/go-bookstore
 
 go 1.13
 
