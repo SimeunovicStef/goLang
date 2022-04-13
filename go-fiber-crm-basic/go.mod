@@ -1,4 +1,4 @@
-module github.com/SimeunovicStef/go-fiber-crm-basic
+module github.com/SimeunovicStef/goLang/go-fiber-crm-basic
 
 go 1.13
 
