@@ -1,6 +1,7 @@
 github.com/SimeunovicStef/goLang v0.0.0-20220414164233-4a54d8cb8cc3 h1:lHbw3wrpASsObtSFVArj4KCRIMFiPFmu8I91wSMlmPg=
 github.com/SimeunovicStef/goLang v0.0.0-20220415145352-81a57009e866 h1:j9ePdywaaiF2z52tlUtfFQZ6zj415ew9SDBqhcAhTvQ=
 github.com/SimeunovicStef/goLang v0.0.0-20220415154532-dbb8bd87e5a9 h1:nckC+jtbOD/1V3pesEZQI+VY58Ql6LQU0AzMjGGAMkM=
+github.com/SimeunovicStef/goLang v0.0.0-20220415183541-ea685170d936 h1:kFDL59vgjqVs/HRUzRisblT8Izs+soqPayqTFuHBFaA=
 github.com/SimeunovicStef/goLang/go-serverless-stack v0.0.0-20220415154532-dbb8bd87e5a9 h1:eO2/MTLM4CKdJTy0NbvJiMRQMMrYeIxsdRFZwrBqSgA=
 github.com/SimeunovicStef/goLang/go-serverless-stack v0.0.0-20220415154532-dbb8bd87e5a9/go.mod h1:uARaH/SYa9Y41M1jg7E03cqx+wBGUTEC5ZGE5zuxOQc=
 github.com/aws/aws-lambda-go v1.30.0 h1:qelHgOUidrQmrfFTLiC7u6wWuuwBJ9yKcjVRkIy7834=
