@@ -1,4 +1,5 @@
 github.com/SimeunovicStef/goLang v0.0.0-20220414164233-4a54d8cb8cc3 h1:lHbw3wrpASsObtSFVArj4KCRIMFiPFmu8I91wSMlmPg=
+github.com/SimeunovicStef/goLang v0.0.0-20220415145352-81a57009e866 h1:j9ePdywaaiF2z52tlUtfFQZ6zj415ew9SDBqhcAhTvQ=
 github.com/aws/aws-lambda-go v1.30.0 h1:qelHgOUidrQmrfFTLiC7u6wWuuwBJ9yKcjVRkIy7834=
 github.com/aws/aws-lambda-go v1.30.0/go.mod h1:IF5Q7wj4VyZyUFnZ54IQqeWtctHQ9tz+KhcbDenr220=
 github.com/aws/aws-sdk-go v1.43.40 h1:xeymFmt2atvG7C9nTjYR1PUt3QZC2sCKvySu/UNdXhM=
