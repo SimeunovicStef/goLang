@@ -1,8 +1,5 @@
-module github.com/SimeunovicStef/goLang/go-serverless-stack
+module github.com/SimeunovicStef/goLang/go-serverless-stack/
 
 go 1.13
 
-require (
-	github.com/aws/aws-lambda-go v1.30.0
-	github.com/aws/aws-sdk-go v1.43.40
-)
+require github.com/SimeunovicStef/goLang/go-serverless-stack v0.0.0-20220415154532-dbb8bd87e5a9 // indirect
